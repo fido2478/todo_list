@@ -1,0 +1,61 @@
+1483996243288	geckodriver	INFO	Listening on 127.0.0.1:51128
+1483996244283	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RRGP8foT63ck
+1483996244284	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483996244287	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45720
+1483996244825	Marionette	INFO	Listening on port 45720
+1485399277794	geckodriver	INFO	Listening on 127.0.0.1:60590
+1485399278792	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ApoUdanLBzig
+1485399278794	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485399278797	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45528
+1485399279263	Marionette	INFO	Listening on port 45528
+[Child 5728] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5728] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1485399308604	geckodriver	INFO	Listening on 127.0.0.1:41820
+1485399309607	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pEkBMCW2qKln
+1485399309608	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485399309611	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36874
+1485399310109	Marionette	INFO	Listening on port 36874
+[Child 5853] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5853] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1485403562529	geckodriver	INFO	Listening on 127.0.0.1:60225
+1485403563534	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.T03g0tKP5rTO
+1485403563536	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485403563539	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44179
+1485403563970	Marionette	INFO	Listening on port 44179
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6782] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 6782] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6782] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1485403638730	geckodriver	INFO	Listening on 127.0.0.1:45544
+1485403639735	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UYXgXIF8BQPh
+1485403639737	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485403639741	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45422
+1485403640170	Marionette	INFO	Listening on port 45422
+[Child 6896] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6896] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1485403864214	geckodriver	INFO	Listening on 127.0.0.1:53801
+1485403865219	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.b7ZMzsT8NM4D
+1485403865221	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485403865225	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37181
+1485403865671	Marionette	INFO	Listening on port 37181
+[Child 7019] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7019] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1485404055531	geckodriver	INFO	Listening on 127.0.0.1:58819
+1485404056536	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wFsXMLEBqyRl
+1485404056538	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485404056541	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35334
+1485404057024	Marionette	INFO	Listening on port 35334
+[Child 7164] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7164] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
